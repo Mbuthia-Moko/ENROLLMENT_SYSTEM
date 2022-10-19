@@ -1,0 +1,122 @@
+#inputform {
+	width: 75%;
+	border: 3px solid black;
+	font-weight: bold;
+	margin-top: 150px;
+}
+#studentinput-form{
+	color: black;
+	background-color: white;
+
+}
+
+#smalltitle{
+	text-align: center;
+}
+
+.view{
+	padding-top:50px;
+	padding-bottom: 150px;
+}
+.user-view{
+	padding-top:50px;
+	padding-bottom: 50px;
+	text-align: center;
+	color: yellow;
+
+}
+.user-viewindex{
+	padding-top:50px;
+	padding-bottom: 50px;
+	text-align: center;
+	color: yellow;
+	height: 250px;
+}
+
+
+.content{
+	text-align: center;
+}
+.main_title{
+	text-align: center;
+
+}
+
+#contactform{
+	border: 1px solid black;
+	font-weight: bold;
+
+}
+#form-input{
+	color: black;
+	background-color: white;
+}
+#blue-text{
+	color: blue;
+}
+#yellow-text{
+	color: yellow;
+}
+.item-shadow{
+	height: 250px;
+	border-radius: 5%;
+	text-decoration: none;
+	color: white;
+}
+.more-info{
+	padding-left: 20px;
+}
+hr{
+  border-radius: 50px;
+  border: none;
+  width: 55%;
+  margin-left: 280px;
+  height: 7px;
+  background: #008000;
+  margin-bottom: 40px;
+}
+
+#svccard{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	color: black;
+	 
+}
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 50%;
+  background: #f1f1f1;
+  border-radius: 5%;
+}
+
+/* Style the submit button */
+form.example button {
+  float: left;
+  width: 5%;
+  padding: 10px;
+  border-radius: 5%;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+  border-radius: 5%;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+/* Clear floats */
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+#courses{
+	margin-left: 50px;
+}
